@@ -1,0 +1,4 @@
+create procedure dbo.DeleteOwner
+	@id int
+as
+delete Owners where Id = @id

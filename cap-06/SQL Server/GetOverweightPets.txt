@@ -1,0 +1,6 @@
+ create procedure dbo.GetOverweightPets
+  as
+  select p.*
+  from pets p
+  join Breeds b on p.BreedId = b.Id
+  where p.Weight > b.IdealMaxWeight

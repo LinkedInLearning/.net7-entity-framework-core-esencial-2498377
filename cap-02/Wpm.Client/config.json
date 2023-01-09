@@ -1,0 +1,6 @@
+{
+  "connectionStrings": {
+    "Wpm": "Data source=DESKTOP-F1HJ3VT\\SQLEXPRESS;Initial Catalog=Wpm;Integrated Security=True;Trust Server Certificate=true"
+  }
+
+}
