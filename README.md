@@ -6,7 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `[.NET 7: Entity Framework
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-Descubre los conceptos fundamentales de Entity Framework Core como tecnología ORM para el acceso y manipulación de datos. Este curso comienzo explicando qué es Entity Framework Core, para qué sirve, cuáles son sus principales características y cómo podemos comenzar rápidamente a construir aplicaciones que usen esta tecnología. También aprenderás cómo consultar y manipular datos, su relación con objetos de la base de datos (procedimientos almacenados, vistas, etc.), su relación con DDD y, finalmente, cómo podemos construir pruebas unitarias.
+Descubre los conceptos fundamentales de Entity Framework Core como tecnología ORM para el acceso y manipulación de datos. Este curso comienzo explicando qué es Entity Framework Core, para qué sirve, cuáles son sus principales características y cómo podemos comenzar rápidamente a construir aplicaciones que usen esta tecnología. También aprenderás cómo consultar y manipular datos, y su relación con objetos de la base de datos (procedimientos almacenados, vistas, etc.).
 
 ## Instrucciones
 
