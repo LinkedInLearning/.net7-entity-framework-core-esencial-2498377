@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `[.NET 7: Entity Framework Core esencial]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url]
+![image](https://user-images.githubusercontent.com/71371373/224997689-d464cd2a-bc25-4599-b47e-6295dcef3f3f.png)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
